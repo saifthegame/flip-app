@@ -1,0 +1,7 @@
+{
+  "name": "flipApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
